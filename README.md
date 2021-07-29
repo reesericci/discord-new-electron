@@ -8,4 +8,9 @@ If you want discord_arch_electron but on other distros (assuming your goal is to
 
 Grab the appimage from the releases tab, make it executable, and run it! If you want to integrate it, look up AppImageLauncher by the assassin.
 
+Or use zap, the AppImage package manager (the best way to install AppImages)
+```
+zap install --github --from reesericci/discord-new-electron
+```
+
 \* issue #1
