@@ -17,3 +17,10 @@
 /no-gpu/version filter=lfs diff=lfs merge=lfs -text
 /wayland-no-gpu/Discord filter=lfs diff=lfs merge=lfs -text
 /wayland/Discord filter=lfs diff=lfs merge=lfs -text
+/AppRun filter=lfs diff=lfs merge=lfs -text
+/Discord filter=lfs diff=lfs merge=lfs -text
+*.md filter=lfs diff=lfs merge=lfs -text
+/chrome-sandbox filter=lfs diff=lfs merge=lfs -text
+/discord-binary filter=lfs diff=lfs merge=lfs -text
+*.AppImage filter=lfs diff=lfs merge=lfs -text
+/version filter=lfs diff=lfs merge=lfs -text
